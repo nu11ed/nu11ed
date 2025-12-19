@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello 👋
+
+<p>I'm an entry-level Cybersecurity Professional with hands-on experience in both offensive and defensive security.</p>
 
 <h1>🧑🏽‍💻Cybersecurity Projects</h1>
 
