@@ -11,7 +11,7 @@
 
 [Nmap](https://github.com/nu11ed/nmap)
 
-[Finding an IDOR VUlnerability](https://github.com/nu11ed/Exploiting-an-IDOR-Vulnerability)
+[Finding an IDOR Vulnerability](https://github.com/nu11ed/Exploiting-an-IDOR-Vulnerability)
 
 <h1>💻IT/Help Desk Projects</h1>
 
