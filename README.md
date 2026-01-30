@@ -1,6 +1,6 @@
 ## Hello 👋
 
-<p>I'm an entry-level Cybersecurity Professional with hands-on experience in both offensive and defensive security.</p>
+<p>I'm a Cybersecurity Professional with hands-on experience in both offensive and defensive security.</p>
 
 🎯 Interests
 + Counterterrorism
