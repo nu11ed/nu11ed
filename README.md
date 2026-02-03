@@ -13,7 +13,7 @@
 
 [Finding an IDOR Vulnerability](https://github.com/nu11ed/Exploiting-an-IDOR-Vulnerability)
 
-[Digital Forensics With Autopsy]([https://github.com/nu11ed/nmap](https://github.com/nu11ed/Digital-Forensics-Analysis-Using-Autopsy))
+[Digital Forensics With Autopsy](https://github.com/nu11ed/Digital-Forensics-Analysis-Using-Autopsy)
 
 <h1>💻IT/Help Desk Projects</h1>
 
