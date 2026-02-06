@@ -2,11 +2,6 @@
 
 <p>I'm a Cybersecurity Professional with hands-on experience in both offensive and defensive security.</p>
 
-🎯 Interests
-+ Counterterrorism
-
-+ Cyber Threat Intelligence
-
 <h1>🧑🏽‍💻Cybersecurity Projects</h1>
 
 [Nmap](https://github.com/nu11ed/nmap)
