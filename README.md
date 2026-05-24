@@ -4,6 +4,8 @@
 
 <h1>🧑🏽‍💻Cybersecurity Projects</h1>
 
+[Linux Privilege Escalation](https://github.com/nu11ed/Linux-Privilege-Escalation)
+
 [Nmap](https://github.com/nu11ed/nmap)
 
 [Finding an IDOR Vulnerability](https://github.com/nu11ed/Exploiting-an-IDOR-Vulnerability)
