@@ -1,8 +1,8 @@
 ## Hello 👋
 
-<p>Welcome to my GitHub. I'm a Cybersecurity Professional with hands-on experience in offensive and defensive security.</p>
+<p>I'm a Cybersecurity Professional with hands-on experience in offensive and defensive security. I love breaking into systems, and I love teaching people how to defend against exactly what I just did. </p>
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/W4R.png)](https://tryhackme.com/p/W4R)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-W4R-red?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 <h1>🧑🏽‍💻Cybersecurity Projects</h1>
 
