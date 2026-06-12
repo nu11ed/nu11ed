@@ -4,6 +4,13 @@
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-W4R-red?style=for-the-badge&logo=tryhackme&logoColor=white)
 
+<h1>Operating Systems I Use</h1>
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+
 <h1>🧑🏽‍💻Cybersecurity Projects</h1>
 
 [Linux Privilege Escalation](https://github.com/nu11ed/Linux-Privilege-Escalation)
