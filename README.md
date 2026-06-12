@@ -1,6 +1,8 @@
 ## Hello 👋
 
-<p>I'm a Cybersecurity Professional with hands-on experience in both offensive and defensive security.</p>
+<p>Welcome to my GitHub. I'm a Cybersecurity Professional with hands-on experience in offensive and defensive security.</p>
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YourUsername.png)](https://tryhackme.com/p/W4R)
 
 <h1>🧑🏽‍💻Cybersecurity Projects</h1>
 
