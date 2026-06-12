@@ -9,6 +9,25 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+<h1>Tools I Use</h1>
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-1A1A2E?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004B8D?style=for-the-badge&logoColor=white)
+![Binwalk](https://img.shields.io/badge/Binwalk-333333?style=for-the-badge&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-4B0082?style=for-the-badge&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-8B0000?style=for-the-badge&logoColor=white)
+
+
+
 
 
 <h1>🧑🏽‍💻Cybersecurity Projects</h1>
